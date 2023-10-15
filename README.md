@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning integers
 - 💞️ I’m looking to collaborate with my dad and my sister to make a app called [epsilon.academy](https://epsilon.academy)
-- 📫 How to reach me mesage me on github I guess.
+- 📫 How to reach me: mesage me on github, I guess
